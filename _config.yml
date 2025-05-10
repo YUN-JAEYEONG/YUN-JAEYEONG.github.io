@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: YUN JAEYEONG # the main title
 
-tagline: 코딩 コーディング # it will display as the subtitle
+tagline: 코딩 コーディン # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.

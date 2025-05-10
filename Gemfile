@@ -2,11 +2,13 @@
 
 source "https://rubygems.org"
 
-gemspec
+gem "jekyll-theme-chirpy", "~> 7.2", ">= 7.2.4"
 
-group :test do
-  gem "html-proofer", "~> 5.0"
+gem "html-proofer", "~> 5.0", group: :test
+
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo", ">= 1", "< 3"
+  gem "tzinfo-data"
 end
 
-gem 'tzinfo'
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]

@@ -10,18 +10,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: linkedin
-  icon: 'fab fa-linkedin'
-  url:  'https://linkedin.com/in/tomwhiteley'
-
-- type: microsoft
-  icon: 'fab fa-microsoft'
-  url:  'https://www.credly.com/users/tom-whiteley/badges'
-
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-  
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -39,3 +30,11 @@
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
 #   url: ''                   # Fill with your Bluesky profile link
+#
+# - type: reddit
+#   icon: 'fa-brands fa-reddit'
+#   url: ''                   # Fill with your Reddit profile link
+#
+# - type: threads
+#   icon: 'fa-brands fa-threads'
+#   url: ''                   # Fill with your Threads profile link

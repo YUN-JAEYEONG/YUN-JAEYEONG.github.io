@@ -16,7 +16,7 @@ timezone:
 
 title: YUN-JAEYEONG # the main title
 
-tagline: 컴퓨터공학을 공부 중인 대학생입니다. コンピューター工学を勉強している学生です # it will display as the subtitle
+tagline: 컴퓨터공학을 공부 중인 대학생입니다. コンピューター工学を勉強している大学生です # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.

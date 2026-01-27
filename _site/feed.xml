@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>YUN-JAEYEONG</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2026-01-27T21:05:36+09:00</updated>
+  <updated>2026-01-27T21:34:45+09:00</updated>
   <author>
     <name>YUN JAEYEONG</name>
     <uri>http://localhost:4000/</uri>
@@ -41,6 +41,32 @@
   
 
   <summary>밴디트 문제(バンディット問題)  머신러닝의 분류（機械学習の分類）     지도 학습:정답이 있는 데이터를 활용해 데이터를 학습   비지도 학습:정답 레이블이 없는 데이터를 군집화 하는 학습        강화 학습:에이전트가 환경과 상호작용하면서 수집한 데이터를 바탕으로 더 많은 보상을 얻는 방법 학습      教師あり学習：正解ラベル付きデータを用いて学習する手法   教師なし学習：正解ラベルのないデータをクラスタリングする学習   強化学習：エージェントが環境と相互作用しながら得たデータを基に，より多くの報酬を得る方法を学習する手法   밴디트 문제（バンディット問題）  슬롯머신 = 환경  スロットマシン＝環境  플레이어 = 에이전트  プレイヤー＝エージェント  좋은 슬롯 머신이란?（良いスロットマシンとは？）  기댓값(expectat...</summary>
+
+  </entry>
+
+  
+  <entry>
+    <title>밴디트(バンディット問題)</title>
+    <link href="http://localhost:4000/posts/dd/" rel="alternate" type="text/html" title="밴디트(バンディット問題)" />
+    <published>2026-01-26T19:00:00+09:00</published>
+  
+    <updated>2026-01-27T21:32:37+09:00</updated>
+  
+    <id>http://localhost:4000/posts/dd/</id>
+    <content type="text/html" src="http://localhost:4000/posts/dd/" />
+    <author>
+      <name>YUN JAEYEONG</name>
+    </author>
+
+  
+    
+    <category term="강화학습" />
+    
+    <category term="強化学習" />
+    
+  
+
+  <summary>밴디트 문제(バンディット問題)  머신러닝의 분류（機械学習の分類）     지도 학습:정답이 있는 데이터를 활용해 데이터를 학습   비지도 학습:정답 레이블이 없는 데이터를 군집화 하는 학습        강화 학습:에이전트가 환경과 상호작용하면서 수집한 데이터를 바탕으로 더 많은 보상을 얻는 방법 학습      教師あり学習：正解ラベル付きデータを用いて学習する手法   教師なし学習：正解ラベルのないデータをクラスタリングする学習   強化学習：エージェントが環境と相互作用しながら得たデータを基に，より多くの報酬を得る方法を学習する手法   밴디트 문제（バンディット問題）  슬롯머신 = 환경  スロットマシン＝環境  플레이어 = 에이전트</summary>
 
   </entry>
 

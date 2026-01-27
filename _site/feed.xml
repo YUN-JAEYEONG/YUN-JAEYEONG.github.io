@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>YUN-JAEYEONG</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2026-01-27T21:50:11+09:00</updated>
+  <updated>2026-01-27T22:28:13+09:00</updated>
   <author>
     <name>YUN JAEYEONG</name>
     <uri>http://localhost:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://localhost:4000/posts/%EB%B0%B4%EB%94%94%ED%8A%B8-%EB%AC%B8%EC%A0%9C(%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)/" rel="alternate" type="text/html" title="밴디트 문제(バンディット問題)" />
     <published>2026-01-27T19:00:00+09:00</published>
   
-    <updated>2026-01-27T21:38:23+09:00</updated>
+    <updated>2026-01-27T21:50:59+09:00</updated>
   
     <id>http://localhost:4000/posts/%EB%B0%B4%EB%94%94%ED%8A%B8-%EB%AC%B8%EC%A0%9C(%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)/</id>
     <content type="text/html" src="http://localhost:4000/posts/%EB%B0%B4%EB%94%94%ED%8A%B8-%EB%AC%B8%EC%A0%9C(%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)/" />

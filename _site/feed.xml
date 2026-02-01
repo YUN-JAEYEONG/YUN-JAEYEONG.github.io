@@ -4,7 +4,7 @@
   <id>http://localhost:4000/</id>
   <title>YUN-JAEYEONG</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2026-01-28T16:22:09+09:00</updated>
+  <updated>2026-02-01T19:30:12+09:00</updated>
   <author>
     <name>YUN JAEYEONG</name>
     <uri>http://localhost:4000/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>벨만 방정식(bellman equation, ベルマン方程式)</title>
+    <link href="http://localhost:4000/posts/%EB%B2%A8%EB%A7%8C-%EB%B0%A9%EC%A0%95%EC%8B%9D(%E3%83%99%E3%83%AB%E3%83%9E%E3%83%B3%E6%96%B9%E7%A8%8B%E5%BC%8F)/" rel="alternate" type="text/html" title="벨만 방정식(bellman equation, ベルマン方程式)" />
+    <published>2026-02-01T16:00:00+09:00</published>
+  
+    <updated>2026-02-01T16:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EB%B2%A8%EB%A7%8C-%EB%B0%A9%EC%A0%95%EC%8B%9D(%E3%83%99%E3%83%AB%E3%83%9E%E3%83%B3%E6%96%B9%E7%A8%8B%E5%BC%8F)/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%EB%B2%A8%EB%A7%8C-%EB%B0%A9%EC%A0%95%EC%8B%9D(%E3%83%99%E3%83%AB%E3%83%9E%E3%83%B3%E6%96%B9%E7%A8%8B%E5%BC%8F)/" />
+    <author>
+      <name>YUN JAEYEONG</name>
+    </author>
+
+  
+    
+    <category term="강화학습" />
+    
+    <category term="強化学習" />
+    
+  
+
+  <summary>벨만 방정식(ベルマン方程式)  확률과 기댓값(確率と期待値)  각각의 눈이 나올 확률이 정확하게 \(\frac{1}{6}\)씩인 이상적인 주사위임을 가정하면, 각 확률은 다음 식으로 표현할 수 있다.  各目が出る確率が正確にそれぞれ\(\frac{1}{6}\)である理想的なサイコロを仮定すると、各確率は次の式で表される。  [p(x) = \frac{1}{6}]  주사위를 굴렸을 때 나올 기댓값은 다음과 같이 구할 수 있다.  サイコロを振った時に得られる期待値は、次のように計算できる。  \(E[x] = 1\times\frac{1}{6}+2\times\frac{1}{6}+3\times\frac{1}{6}+4\times\frac{1}{6}+5\times\frac{1}{6}+6\times\frac{1}{6}\\=3.5\) 조...</summary>
+
+  </entry>
 
   
   <entry>
@@ -50,7 +76,7 @@
     <link href="http://localhost:4000/posts/%EB%B0%B4%EB%94%94%ED%8A%B8-%EB%AC%B8%EC%A0%9C(%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)/" rel="alternate" type="text/html" title="밴디트 문제(バンディット問題)" />
     <published>2026-01-27T19:00:00+09:00</published>
   
-    <updated>2026-01-27T21:50:59+09:00</updated>
+    <updated>2026-01-28T16:22:49+09:00</updated>
   
     <id>http://localhost:4000/posts/%EB%B0%B4%EB%94%94%ED%8A%B8-%EB%AC%B8%EC%A0%9C(%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)/</id>
     <content type="text/html" src="http://localhost:4000/posts/%EB%B0%B4%EB%94%94%ED%8A%B8-%EB%AC%B8%EC%A0%9C(%E3%83%90%E3%83%B3%E3%83%87%E3%82%A3%E3%83%83%E3%83%88%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)/" />
